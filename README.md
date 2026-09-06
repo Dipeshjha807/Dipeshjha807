@@ -8,7 +8,7 @@
 - 🔭 Working on backend development, Spring Boot & REST APIs.
 - 🌱 Exploring Microservices, Redis Caching & System Design.
 - 💬 Ask me about **Java, Spring Boot, Data Structures & SQL**.
-- 📫 Reach me: **dipesh@example.com** <!-- Apna email yahan daal sakte hain -->
+- 📫 Reach me: **dipeshjha799@gmail.com** 
 
 ---
 
